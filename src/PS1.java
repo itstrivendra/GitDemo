@@ -25,5 +25,6 @@ public class PS1 extends PS {
 	@Test
 	public void deleteTwitter() {
 		System.out.println("delete Twitter - develop branch");
+		System.out.println("GitStuff - develop branch");
 	}
 }
